@@ -45,6 +45,5 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.cherish.build_date_utc=$(CHERISH_BUILD_DATE_UTC) \
     ro.cherish.battery?=$(CHERISH_BATTERY) \
     ro.cherish.chipset?=$(CHERISH_CHIPSET) \
-    ro.cherish.maintainer=$(CHERISH_MAINTAINER) \
     ro.cherish.display_resolution?=$(CHERISH_DISPLAY) \
     ro.cherish.build_type=$(CHERISH_BUILD_TYPE)
